@@ -3,6 +3,10 @@ rgs= {
         name= "rg-terraform"
         location = "centralindia"
     }
+        rg3= {
+        name= "rg3"
+        location = "centralindia"
+    }
 }
 stgs= {
     stg1= {
